@@ -25,7 +25,7 @@ Use the command `python --version` to check the Python version in the virtual en
 
 Use the command `python -m pip install chatterbot==1.0.4 pytz` to install `chatterbot` and `pytz` in your virtual environment. 
 
-`pip install -r requirements.txt`
+Alternatively, you can also use the `requirements.txt` to install the dependencies needed for this project. Type `pip install -r requirements.txt` into a CLI.
 
 ### 7. Run chatbot 
 
