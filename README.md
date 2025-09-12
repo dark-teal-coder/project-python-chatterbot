@@ -2,7 +2,7 @@
 
 ## Steps to Run the Code
 
-### 1. Git-clone the Repository 
+### 1. Git-clone the repository 
 Use the git-clone command `git clone https://github.com/dark-teal-coder/project-python-chatterbot.git` to clone the repository to a directory/folder in which you want to work.
 
 ### 2. Install Python 3.7.9 on your computer
@@ -21,12 +21,12 @@ After creating the virtual environment, you will see a new folder created under 
 
 Use the command `python --version` to check the Python version in the virtual environment. If you have not activated the virtual environment, it will display the default Python version on your system.
 
-### 6. Install Libraries
+### 6. Install libraries
 
 Use the command `python -m pip install chatterbot==1.0.4 pytz` to install `chatterbot` and `pytz` in your virtual environment. 
 
 `pip install -r requirements.txt`
 
-### 7. Run Chatbot 
+### 7. Run chatbot 
 
 Use the command `python .\bot.py` to run the code and start chatting with the chatbot. 
