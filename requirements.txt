@@ -1,2 +1,2 @@
-chatterBot         1.0.4
-pytz               2025.2
+ChatterBot==1.0.4
+pytz==2025.2
