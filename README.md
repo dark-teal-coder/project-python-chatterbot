@@ -8,7 +8,7 @@ You need to use a Python version below 3.8 to successfully work with the recomme
 
 ### 2. Create a virtual environment with Python 3.7
 
-Use the command `py -3.7 -m venv <venv-name>`, where where `<venv-name>` is the name of your virtual environment, to create a virtual environment with Python 3.7. If you do not specify the Python version, it will use the default Python version on your system.
+Use the command `py -3.7 -m venv <venv-name>`, where `<venv-name>` is the name of your virtual environment, to create a virtual environment with Python 3.7 in the project folder. If you do not specify the Python version, it will use the default Python version on your system.
 
 ### 3. Activate the virtual environment
 
