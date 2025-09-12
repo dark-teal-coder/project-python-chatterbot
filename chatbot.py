@@ -1,5 +1,3 @@
-# bot.py
-
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 from cleaner import clean_corpus
@@ -28,3 +26,4 @@ while True:
         break
     else:
         print(f"🌱 {chatbot.get_response(query)}")
+
