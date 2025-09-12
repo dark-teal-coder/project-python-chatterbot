@@ -1,4 +1,23 @@
+<!-- README file for projects-->
+
 # Project Python Chatterbot
+
+## Metadata
+
+- <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
+- <ins>First Published Date</ins>: 2025-09-12
+
+## Project
+
+- **Title**: *Python Chatterbot*
+- **Difficulty**:
+  - [ ] Beginner
+  - [x] Intermediate
+  - [ ] Advanced
+- **Scale**:
+  - [x] Small
+  - [ ] Medium
+  - [ ] Large
 
 ## Steps to Run the Code
 
