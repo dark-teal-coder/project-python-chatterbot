@@ -29,4 +29,4 @@ Use the command `python -m pip install chatterbot==1.0.4 pytz` to install `chatt
 
 ### 7. Run chatbot 
 
-Use the command `python .\bot.py` to run the code and start chatting with the chatbot. 
+Use the command `python <chatbot-name>.py`, where `<chatbot-name>` is the name of your chatbot Python file, to run the code and start chatting with the chatbot. 
