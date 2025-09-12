@@ -23,3 +23,5 @@ Use the command `python --version` to check the Python version in the virtual en
 https://pypi.org/project/Pint/0.19.2/#files
 
 pip install -r requirements.txt
+
+https://pypi.org/project/Pint/0.19.2/#files
