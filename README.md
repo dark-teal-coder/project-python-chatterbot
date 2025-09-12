@@ -1,6 +1,6 @@
 <!-- README file for projects-->
 
-# Project Python Chatterbot
+# Python Chatterbot
 
 ## Metadata
 
