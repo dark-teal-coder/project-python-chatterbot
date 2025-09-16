@@ -23,6 +23,8 @@
 
 ...
 
+## Installation
+
 ### Steps to Run the Code
 
 #### 1. Git-clone the repository 
