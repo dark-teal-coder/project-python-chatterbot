@@ -66,6 +66,7 @@ Use the command `python <chatbot-name>.py`, where `<chatbot-name>` is the name o
 
 - [How to Set Up a Virtual Environment in Python – And Why It's Useful](https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
 - [ChatterBot: Build a Chatbot With Python](https://realpython.com/build-a-chatbot-python-chatterbot/)
+- [UnicodeDecodeError](https://github.com/shaka-project/shaka-player/issues/3204)
 
 &nbsp;
 
