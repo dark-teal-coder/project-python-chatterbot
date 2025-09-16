@@ -5,7 +5,7 @@
 ## Metadata
 
 - <ins>Project Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
-- <ins>First Published Date</ins>: 2025-09-12
+- <ins>First Published Date</ins>: 2025-09-11
 
 ## Project
 
@@ -66,4 +66,4 @@ Use the command `python <chatbot-name>.py`, where `<chatbot-name>` is the name o
 
 &nbsp;
 
-*1st Completion Date: Sep 11, 2025*&emsp;
+*1st Completion Date: Sep 12, 2025*&emsp;
