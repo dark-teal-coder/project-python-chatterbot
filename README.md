@@ -70,4 +70,5 @@ Use the command `python <chatbot-name>.py`, where `<chatbot-name>` is the name o
 &nbsp;
 
 *1st Completion Date: Sep 12, 2025*&emsp;
+<br>
 *2nd Completion Date: Sep 16, 2025*&emsp;
