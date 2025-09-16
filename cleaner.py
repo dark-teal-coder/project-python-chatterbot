@@ -1,9 +1,7 @@
-# cleaner.py
-
 import re
 
 def remove_chat_metadata(chat_export_file):
-    # If you export a Whatsapp chat as the training data, the pattern is as follows.
+    ## If you export a Whatsapp chat as the training data, the pattern is as follows.
     date_time = r"(\d+\/\d+\/\d+,\s\d+:\d+)"  # e.g. "9/16/22, 06:34"
     dash_whitespace = r"\s-\s"  # " - "
     username = r"([\w\s]+)"  # e.g. "Martin"
@@ -17,7 +15,6 @@ def remove_chat_metadata(chat_export_file):
 
 def remove_non_message_text(export_text_lines):
     messages = export_text_lines[1:-1]
-
     filter_out_msgs = ("<Media omitted>",)
     return tuple((msg for msg in messages if msg not in filter_out_msgs))
 

@@ -12,6 +12,10 @@ trainer.train([
     "Welcome, friend 😃",
 ])
 trainer.train([
+    "How are you?",
+    "I'm good.",
+])
+trainer.train([
     "Are you a plant?",
     "No, I'm the pot below the plant!",
 ])
@@ -26,4 +30,3 @@ while True:
         break
     else:
         print(f"🌱 {chatbot.get_response(query)}")
-
