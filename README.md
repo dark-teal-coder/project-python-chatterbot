@@ -21,7 +21,7 @@
 
 ## Repository Description 
 
-...
+This project uses the Python library ChatterBot to make a chatbot and uses a WhatsApp chat to train the bot. When you run the chatbot for the first time, it will create a SQLite database file called `db.sqlite3` where it stores all your inputs and connects them with possible responses. 
 
 ## Installation
 
